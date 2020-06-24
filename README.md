@@ -8,5 +8,5 @@ Java programs that might be asked in coding rounds or during a physical intervie
         Find all the elements of [1, n] inclusive that do not appear in this array.
         Could you do it without extra space and in O(n) runtime? You may assume the returned list does not count as extra space.
         
-3. leet136
+3. leet136 - Given a non-empty array of integers, every element appears twice except for one. Find that single one.
 
