@@ -10,3 +10,5 @@ Java programs that might be asked in coding rounds or during a physical intervie
         
 3. leet136 - Given a non-empty array of integers, every element appears twice except for one. Find that single one.
 
+4. leet784 - (Using backtracking) find all permutations of a string in upper and lower cases. eg leet784, Leet784, lEet784 and so on.
+
